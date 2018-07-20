@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.vscode
+*.vscode/*
+zin.txt
+zout.txt
+data.in
+data.out
+test.cpp
